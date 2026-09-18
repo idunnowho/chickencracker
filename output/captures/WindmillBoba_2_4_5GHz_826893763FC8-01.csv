@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+82:68:93:76:3F:C8, 2026-09-07 18:11:05, 2026-09-07 18:11:40,  5, 130, WPA2, CCMP, PSK, -60,      285,        0,   0.  0.  0.  0,  21, WindmillBoba 2.4/5GHz, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

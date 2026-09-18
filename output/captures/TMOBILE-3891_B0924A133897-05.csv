@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B0:92:4A:13:38:97, 2026-09-02 21:10:03, 2026-09-02 21:10:26,  4, 260, WPA3 WPA2, CCMP, SAE PSK, -15,      155,       23,   0.  0.  0.  0,  12, TMOBILE-3891, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+1A:2A:CA:42:F8:BF, 2026-09-02 21:10:15, 2026-09-02 21:10:26, -72,      159, B0:92:4A:13:38:97,TMOBILE-3891
+

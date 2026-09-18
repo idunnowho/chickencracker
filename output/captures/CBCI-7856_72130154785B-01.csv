@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+72:13:01:54:78:5B, 2026-09-07 18:11:41, 2026-09-07 18:12:10, 11, 540, WPA2, CCMP, PSK, -65,      138,        6,   0.  0.  0.  0,   9, CBCI-7856, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

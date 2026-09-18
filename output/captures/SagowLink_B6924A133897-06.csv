@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B6:92:4A:13:38:97, 2026-09-05 20:26:34, 2026-09-05 20:27:07, 10, 260, WPA2, CCMP, PSK, -13,      320,      392,   0.  0.  0.  0,   9, SagowLink, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+9A:FF:F4:60:68:2F, 2026-09-05 20:26:34, 2026-09-05 20:27:01, -14,      529, B6:92:4A:13:38:97,
+80:05:1F:6D:3F:F6, 2026-09-05 20:26:38, 2026-09-05 20:27:06, -70,      384, B6:92:4A:13:38:97,
+
