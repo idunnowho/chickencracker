@@ -1,7 +1,0 @@
-
-BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
-36:82:28:CE:4C:4F, 2026-09-05 20:27:58, 2026-09-05 20:28:46,  1, 180, WPA3 WPA2, CCMP, SAE PSK, -76,      194,      296,   0.  0.  0.  0,   9, Ducklings, 
-
-Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
-D6:34:DE:41:5F:50, 2026-09-05 20:27:59, 2026-09-05 20:28:42, -77,     1270, 36:82:28:CE:4C:4F,
-
